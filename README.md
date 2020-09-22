@@ -2,7 +2,7 @@
 Program that using a backtracking algorithm to solve a [Scramble Squares® Puzzle](https://www.scramblesquares.com/).
 
 # Disclaimer
-This is not my algorithm and I do not claim to have created it. This is *my implementation* of the algorithm presented in [USING BACKTRACKING TO SOLVE THE
+This is *not* my algorithm and I *do not* claim to have created it. This is *my implementation* of the algorithm presented in [USING BACKTRACKING TO SOLVE THE
 SCRAMBLE SQUARES® PUZZLE](https://github.com/jbennatt/Scramble-Squares-Puzzle-Solver/blob/master/backtrackingPaper.pdf).
 
 ## Usage
